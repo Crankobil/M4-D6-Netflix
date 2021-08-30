@@ -1,0 +1,44 @@
+body{
+    background-color: #141414;
+}
+
+#logo{
+    height: 50px;
+}
+
+.netflix-nav-dark{
+ background-color: #141414;
+}
+
+.white-border {
+    border: solid 1px white;
+    background-color: black;
+}
+
+.nav-text {
+    color: white;
+}
+
+.sections {
+    color: white;
+}
+
+svg {
+    fill: white;
+}
+
+.dropdown-menu {
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 1px solid grey;
+}
+
+.dropdown-item {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: transparent;
+}
+
+.dropdown-item:hover {
+    color: white;
+    background-color: transparent;
+    }
+
