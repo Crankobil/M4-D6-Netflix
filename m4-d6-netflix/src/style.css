@@ -8,11 +8,31 @@ body{
 
 .netflix-nav-dark{
  background-color: #141414;
+
 }
 
+
 .white-border {
-    border: solid 1px white;
+    border: solid 1px grey;
     background-color: black;
+    border-radius: 5px;
+}
+
+.icon-border {
+    border: solid 1px white;
+    
+}
+
+.nav-top-right{
+    align-self: center;
+}
+
+.nav-bottom-right{
+    width: 35px;
+    height: 35px;
+    padding: 10px;
+    border: 1px solid white;
+    color: white;
 }
 
 .nav-text {
