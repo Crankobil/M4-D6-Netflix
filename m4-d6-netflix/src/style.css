@@ -13,7 +13,7 @@ body{
 
 
 .white-border {
-    border: solid 1px grey;
+    border: solid 1px white;
     background-color: black;
     border-radius: 5px;
 }
